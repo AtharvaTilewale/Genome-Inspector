@@ -60,9 +60,7 @@ Run the Python script to start the Genome Inspector GUI.
 
 ## Screenshots
 
-![Home Screen](path/to/home_screen.png)
-![Analysis Result](path/to/analysis_result.png)
-
+![Home Screen](assets/home_screen.png)
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
