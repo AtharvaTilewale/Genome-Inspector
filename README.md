@@ -30,7 +30,6 @@
    pip install biopython
    pip install tkinter
 
-
 3. **Installation**
    ```sh
    chmod +x 777 setup
