@@ -1,6 +1,8 @@
 # Genome Inspector 1.0
 **Genome Inspector 1.0** is a graphical user interface (GUI) application for performing various DNA sequence analyses. It is designed to be user-friendly and accessible for researchers, students, and anyone interested in molecular biology. The application leverages the Tkinter library for the GUI and Biopython for powerful sequence analysis capabilities.
 
+![Home Screen](assets/logo.png)
+
 ## Features
 
 - **DNA to RNA Conversion:** Convert a DNA sequence to its RNA counterpart.
