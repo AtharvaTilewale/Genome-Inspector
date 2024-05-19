@@ -28,6 +28,8 @@
    - Install the required Python packages using pip:
    ```sh
    pip install biopython
+   pip install tkinter
+
 
 3. **Installation**
    ```sh
