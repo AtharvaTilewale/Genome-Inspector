@@ -34,7 +34,7 @@
 
 3. **Installation**
    ```sh
-   chmod +x 777 setup
+   chmod +x setup
    ./setup
 
 4. **Run the program**
