@@ -28,16 +28,19 @@
 2. **Install required dependencies:**
    - Ensure you have Python installed (version 3.6 or higher).
    - Install the required Python packages using pip:
+
    ```sh
    pip install biopython
    pip install tkinter
 
-3. **Installation**
+4. **Installation**
+
    ```sh
    chmod +x setup
    ./setup
 
-4. **Run the program**
+6. **Run the program**
+
    ```sh
    geneinspect
 
