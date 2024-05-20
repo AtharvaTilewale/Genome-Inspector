@@ -19,4 +19,4 @@ fi
 # source /path/to/venv/bin/activate
 
 # Execute the Python script
-python "$PYTHON_SCRIPT"
+python3 "$PYTHON_SCRIPT"
