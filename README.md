@@ -45,20 +45,24 @@
 1) Launch the application:
 Run the Python script to start the Genome Inspector GUI.
 
+
 2) Input DNA Sequence:
 
 - You can manually enter a DNA sequence in the input field.
 - Alternatively, use the "Browse File" button to upload a sequence file (FASTA, FASTQ, or plain text).
+
 
 3) Select Analysis Option:
 
 - Choose from various analysis options by clicking the respective buttons on the home screen.
 - For restriction site analysis, you will be prompted to enter the enzyme site.
 
+
 4) View Results:
 
 - The results of the selected analysis will be displayed in the text area within the application.
 - You can save the results to a text file using the "Save Results" button.
+
 
 ## Screenshots
 
@@ -68,9 +72,13 @@ Run the Python script to start the Genome Inspector GUI.
 Contributions are welcome! Please follow these steps:
 
 1) Fork the repository.
+
 2) Create a new branch for your feature or bugfix.
+
 3) Commit your changes with a descriptive message.
+
 4) Push your branch to your fork.
+
 5) Open a pull request detailing your changes.
 
 ## License
@@ -78,7 +86,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to open an issue or contact the project maintainers.
-
 
 ---
 
