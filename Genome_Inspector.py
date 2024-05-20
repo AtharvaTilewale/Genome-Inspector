@@ -3,7 +3,8 @@ from tkinter import messagebox
 from tkinter import filedialog
 from Bio.Seq import Seq
 from Bio.SeqUtils import seq3
-from Bio.SeqUtils import nt_search, MeltingTemp as mt
+from Bio.SeqUtils import nt_search 
+from Bio.SeqUtils import MeltingTemp as mt
 
 def count_base(dna_sequence):
     seq = Seq(dna_sequence)
