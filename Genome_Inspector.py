@@ -331,7 +331,7 @@ image_label.grid(row=0, column=1, pady=10, columnspan=3)
 
 # Option buttons
 options = [
-    "DNA to RNA", "DNA Complement", "DNA to Amino acid",
+    "DNA to RNA", "DNA complement", "DNA to Amino acid",
     "Translate Reading Frame", "Reverse Complement", "Find Restriction Sites",
     "Find ORFs", "Count Nucleotide Frequencies", "GC content in sequence",
     "Melting Temperature", "Annealing Temperature"
